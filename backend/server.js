@@ -3,6 +3,7 @@ import express from 'express';
 import morgan from 'morgan';
 import dotenv from 'dotenv';
 import colors from 'colors';
+import cors from 'cors';
 
 import connectDB from './config/db.js';
 import productRoutes from './routes/productRoutes.js';
@@ -21,6 +22,12 @@ dotenv.config();
 connectDB();
 
 const app = express();
+
+app.use(
+  cors({
+    origin: 'https://easy-buy-ecommerce.vercel.app',
+  })
+);
 
 if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
