@@ -1,1 +1,1 @@
-export const API_URL = 'https://fair-clam-slacks.cyclic.app/';
+export const API_URL = 'https://weak-gray-elephant-cap.cyclic.app/';
