@@ -25,7 +25,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: 'https://easy-buy-ecommerce.vercel.app',
+    origin: '*',
   })
 );
 
