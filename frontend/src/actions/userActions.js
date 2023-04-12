@@ -25,8 +25,8 @@ import {
   USER_UPDATE_SUCCESS,
   USER_UPDATE_FAIL,
 } from '../constants/userConstants';
+import { ORDER_LIST_MY_RESET } from '../constants/orderConstants.js';
 import { API_URL } from '../config';
-const navigate = useNavigate();
 
 export const login = (email, password) => async (dispatch) => {
   try {
@@ -62,6 +62,7 @@ export const login = (email, password) => async (dispatch) => {
 };
 
 export const logout = () => (dispatch) => {
+  const navigate = useNavigate();
   localStorage.removeItem('userInfo');
   localStorage.removeItem('cartItems');
   localStorage.removeItem('shippingAddress');
