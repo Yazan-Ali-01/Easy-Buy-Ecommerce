@@ -7,6 +7,7 @@ import {
   CART_SAVE_SHIPPING_ADDRESS,
 } from '../constants/cartConstants.js';
 
+//actions
 export const addToCart = (id, qty) => async (dispatch, getState) => {
   const { data } = await axios.get(`${API_URL}/api/products/${id}`);
   dispatch({
