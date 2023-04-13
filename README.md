@@ -13,7 +13,7 @@ I built this e-commerce app as a way to showcase my skills in full-stack web dev
 
 Check out the live demo of the app [here](https://easy-buy-ecommerce.vercel.app/).
 
-Features : <br>
+## Features
 
 - User authentication and authorization<br>
 - Product search and filtering <br>
