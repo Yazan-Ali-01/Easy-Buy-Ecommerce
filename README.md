@@ -15,9 +15,7 @@ E-Commerce App
 ## Introduction <a name="introduction"></a>
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/shopping-cart.png"/> </p>
-This is a full-stack MERN (MongoDB, Express, React, Node.js) e-commerce web application that allows users to browse and purchase products online. The app is built with a responsive design, making it easy to use on both desktop and mobile devices.
-
-<p align="center"> <img src="https://img.icons8.com/nolan/128/box.png"/> </p>
+This is a full-stack MERN (MongoDB, Express, React, Node.js) e-commerce web application that allows users to browse and purchase products online. The app is built with a responsive design, making it easy to use on both desktop and mobile devices.<br><br>
 
 ## Here's Why <a name="heres-why"></a>
 
@@ -26,6 +24,9 @@ I built this e-commerce app as a way to showcase my skills in full-stack web dev
 ## Demo <a name="demo"></a>
 
 Check out the live demo of the app [here](https://easy-buy-ecommerce.vercel.app/).
+<br><br>
+
+<p align="center"> <img src="https://img.icons8.com/nolan/128/search.png"/> </p>
 
 ## Features <a name="features"></a>
 
