@@ -42,19 +42,21 @@ Check out the live demo of the app [here](https://easy-buy-ecommerce.vercel.app/
 ## Built With <a name="built-with"></a>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-14.15-success"/>
+  <img src="https://img.shields.io/badge/Express-4.17-yellowgreen"/>
   <img src="https://img.shields.io/badge/MongoDB-4.0-green"/>
-  <img src="https://img.shields.io/badge/Express-4.17-blue"/>
-  <img src="https://img.shields.io/badge/React-17.0-blue"/>
-  <img src="https://img.shields.io/badge/Node.js-14.15-green"/>
+  <img src="https://img.shields.io/badge/React-17.0-important"/>
+  <img src="https://img.shields.io/badge/Redux-4.1.1-brightgreen"/>
   <img src="https://img.shields.io/badge/React%20Bootstrap-2.0.0-purple"/>
 </p>
 
 This project was built with the following technologies:
 
 - MongoDB
+- Node.js
 - Express
 - React
-- Node.js
+- redux
 - React Bootstrap
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/code-file.png"/> </p>
