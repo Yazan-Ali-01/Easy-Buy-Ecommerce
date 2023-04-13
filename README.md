@@ -55,7 +55,7 @@ MONGO_URI: Your MongoDB connection string<br>
 PORT: 5000<br>  
 JWT_SECRET: JSON Web Token secret key<br>  
 NODE_ENV: development<br>
-6 - change the API_URL that being fetched with axios in frontend/src/config.js to http://localhost:5000<br>
+6 - change the API_URL that being fetched with axios in frontend/src/config.js to http://localhost:5000 if you want to fetch products and data from your own local backend && DB<br>
 7 - Start the server in the root directory: npm run dev<br>
 8 - Open http://localhost:3000 in your browser
 
