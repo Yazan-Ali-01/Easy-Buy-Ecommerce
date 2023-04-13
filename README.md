@@ -1,19 +1,33 @@
 E-Commerce App
 
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Here's Why](#heres-why)
+- [Demo](#demo)
+- [Features](#features)
+- [Built With](#built-with)
+- [Installation](#installation)
+- [Feedback](#feedback)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
+## Introduction <a name="introduction"></a>
+
 <p align="center"> <img src="https://img.icons8.com/nolan/128/shopping-cart.png"/> </p>
 This is a full-stack MERN (MongoDB, Express, React, Node.js) e-commerce web application that allows users to browse and purchase products online. The app is built with a responsive design, making it easy to use on both desktop and mobile devices.
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/box.png"/> </p>
 
-## Here's Why
+## Here's Why <a name="Here's Why"></a>
 
 I built this e-commerce app as a way to showcase my skills in full-stack web development using the MERN stack. I wanted to create a project that would allow users to easily browse and purchase products online, while also demonstrating my ability to build complex web applications with features such as user authentication, shopping cart functionality, and payment processing.
 
-## Demo
+## Demo <a name="demo"></a>
 
 Check out the live demo of the app [here](https://easy-buy-ecommerce.vercel.app/).
 
-## Features
+## Features <a name="features"></a>
 
 - User authentication and authorization<br>
 - Product search and filtering <br>
@@ -24,7 +38,7 @@ Check out the live demo of the app [here](https://easy-buy-ecommerce.vercel.app/
 - Order history and status tracking<br>
 - Admin dashboard for managing products, orders, and users
 
-## Built With
+## Built With <a name="built-with"></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4.0-green"/>
@@ -44,7 +58,7 @@ This project was built with the following technologies:
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/code-file.png"/> </p>
 
-## Installation
+## Installation <a name="installation"></a>
 
 1 - Clone the repository: git clone https://github.com/Yazan-Ali-01/Easy-Buy-Ecommerce<br>  
 2 - Install dependencies in root directory: npm install<br>  
@@ -61,16 +75,18 @@ NODE_ENV: development<br>
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/feedback.png"/> </p>
 
-## Feedback<br>
+## Feedback <a name="feedback"></a> <br>
 
 If you have any feedback or suggestions, please feel free to open an issue or contact me.
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/github.png"/> </p>
-Contributing
+
+## Contributing <a name="Contributing"></a>
+
 Contributions are welcome! If you would like to contribute to the project, please fork the repository (https://github.com/Yazan-Ali-01/Easy-Buy-Ecommerce/fork) and submit a pull request.
 <br><br>
 
-## Contact
+## Contact <a name="contact"></a>
 
 Email: [yazan.ali.dev@gmail.com](yazan.ali.dev@gmail.com)<br>
 LinkedIn: [https://www.linkedin.com/in/yazan-ali/](https://www.linkedin.com/in/yazan-ali/)
