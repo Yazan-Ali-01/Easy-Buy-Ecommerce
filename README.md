@@ -43,7 +43,9 @@ This project was built with the following technologies:
 - React Bootstrap
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/code-file.png"/> </p>
-Installation:<br>  
+
+## Installation
+
 1 - Clone the repository: git clone https://github.com/Yazan-Ali-01/Easy-Buy-Ecommerce<br>  
 2 - Install dependencies in root directory: npm install<br>  
 3 - install backend dependencies: cd into backend directory then run npm install<br>  
@@ -52,19 +54,23 @@ Installation:<br>
 MONGO_URI: Your MongoDB connection string<br>  
 PORT: 5000<br>  
 JWT_SECRET: JSON Web Token secret key<br>  
-NODE_ENV: development<br> 
+NODE_ENV: development<br>
 6 - change the API_URL that being fetched with axios in frontend/src/config.js to http://localhost:5000<br>
-7 - Start the server in the root directory: npm run dev<br> 
+7 - Start the server in the root directory: npm run dev<br>
 8 - Open http://localhost:3000 in your browser
+
 <p align="center"> <img src="https://img.icons8.com/nolan/128/feedback.png"/> </p>
-Feedback<br>
+
+## Feedback<br>
+
 If you have any feedback or suggestions, please feel free to open an issue or contact me.
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/github.png"/> </p>
 Contributing
 Contributions are welcome! If you would like to contribute to the project, please fork the repository (https://github.com/Yazan-Ali-01/Easy-Buy-Ecommerce/fork) and submit a pull request.
 <br><br>
-Contact
+
+## Contact
 
 Email: [yazan.ali.dev@gmail.com](yazan.ali.dev@gmail.com)<br>
 LinkedIn: [https://www.linkedin.com/in/yazan-ali/](https://www.linkedin.com/in/yazan-ali/)
