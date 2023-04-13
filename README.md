@@ -19,7 +19,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) e-commerce web appl
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/box.png"/> </p>
 
-## Here's Why <a name="Here's Why"></a>
+## Here's Why <a name="heres-why"></a>
 
 I built this e-commerce app as a way to showcase my skills in full-stack web development using the MERN stack. I wanted to create a project that would allow users to easily browse and purchase products online, while also demonstrating my ability to build complex web applications with features such as user authentication, shopping cart functionality, and payment processing.
 
