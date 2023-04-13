@@ -81,7 +81,7 @@ If you have any feedback or suggestions, please feel free to open an issue or co
 
 <p align="center"> <img src="https://img.icons8.com/nolan/128/github.png"/> </p>
 
-## Contributing <a name="Contributing"></a>
+## Contributing <a name="contributing"></a>
 
 Contributions are welcome! If you would like to contribute to the project, please fork the repository (https://github.com/Yazan-Ali-01/Easy-Buy-Ecommerce/fork) and submit a pull request.
 <br><br>
